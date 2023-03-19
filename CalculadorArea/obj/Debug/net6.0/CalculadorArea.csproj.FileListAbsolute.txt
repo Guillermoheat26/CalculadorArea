@@ -1,0 +1,15 @@
+C:\Users\GUILLERMO\source\repos\CalculadorArea\bin\Debug\net6.0\CalculadorArea.exe
+C:\Users\GUILLERMO\source\repos\CalculadorArea\bin\Debug\net6.0\CalculadorArea.deps.json
+C:\Users\GUILLERMO\source\repos\CalculadorArea\bin\Debug\net6.0\CalculadorArea.runtimeconfig.json
+C:\Users\GUILLERMO\source\repos\CalculadorArea\bin\Debug\net6.0\CalculadorArea.dll
+C:\Users\GUILLERMO\source\repos\CalculadorArea\bin\Debug\net6.0\CalculadorArea.pdb
+C:\Users\GUILLERMO\source\repos\CalculadorArea\obj\Debug\net6.0\CalculadorArea.csproj.AssemblyReference.cache
+C:\Users\GUILLERMO\source\repos\CalculadorArea\obj\Debug\net6.0\CalculadorArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUILLERMO\source\repos\CalculadorArea\obj\Debug\net6.0\CalculadorArea.AssemblyInfoInputs.cache
+C:\Users\GUILLERMO\source\repos\CalculadorArea\obj\Debug\net6.0\CalculadorArea.AssemblyInfo.cs
+C:\Users\GUILLERMO\source\repos\CalculadorArea\obj\Debug\net6.0\CalculadorArea.csproj.CoreCompileInputs.cache
+C:\Users\GUILLERMO\source\repos\CalculadorArea\obj\Debug\net6.0\CalculadorArea.dll
+C:\Users\GUILLERMO\source\repos\CalculadorArea\obj\Debug\net6.0\refint\CalculadorArea.dll
+C:\Users\GUILLERMO\source\repos\CalculadorArea\obj\Debug\net6.0\CalculadorArea.pdb
+C:\Users\GUILLERMO\source\repos\CalculadorArea\obj\Debug\net6.0\CalculadorArea.genruntimeconfig.cache
+C:\Users\GUILLERMO\source\repos\CalculadorArea\obj\Debug\net6.0\ref\CalculadorArea.dll
